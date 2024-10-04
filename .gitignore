@@ -1,0 +1,7 @@
+.env
+node_modules/
+
+
+/telegram-music-bot/node_modules
+
+/express-app/node_modules
